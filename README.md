@@ -1,6 +1,6 @@
 - 👋 Hi, my name is Arty
 - 🌱 I’m currently learning Full Stack Development
-- 👯 I’m happy to collaborate on any project with anyone
+- 👨‍💻 I’m happy to collaborate on any project with anyone
 - 📫 How to reach me: sapartyom@g.ucla.edu
 
 <!--
