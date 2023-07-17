@@ -1,4 +1,7 @@
-### Hi there 👋
+- 👋 Hi, my name is Arty
+- 🌱 I’m currently learning Full Stack Development
+- 👯 I’m happy to collaborate on any project with anyone
+- 📫 How to reach me: sapartyom@g.ucla.edu
 
 <!--
 **artySapa/artySapa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
